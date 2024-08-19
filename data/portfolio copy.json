@@ -20,14 +20,14 @@
       "id": "1",
       "title": "IT-Notice",
       "description": "IT-Notice is an innovative web application designed to streamline and consolidate notifications from various learning platforms within the Faculty of Information Technology at KMITL. Leveraging Python and Flask, IT-Notice provides a unified interface where students and faculty can access all relevant updates and announcements in one place.",
-      "imageSrc": "resources/ITnotice.jpg",
+      "imageSrc": "/ITnotice.jpg",
       "url": "https://github.com/SassyxD/IT-notice-core"
     },
     {
       "id": "2",
       "title": "Zootopid",
       "description": "Zootopid is a dynamic and interactive zoo management application built using Java and JavaFX. This application is designed to enhance the visitor experience by providing a comprehensive system for locating animals within a zoo, visualizing their locations, and navigating to them efficiently.",
-      "imageSrc": "resources/logo.jpg",
+      "imageSrc": "/logo.jpg",
       "url": "https://github.com/SassyxD/zootopid"
     },
     {
