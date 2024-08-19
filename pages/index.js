@@ -12,7 +12,8 @@ import Link from "next/link";
 import Cursor from "../components/Cursor";
 
 // Local Data
-import data from "../data/portfolio.json";
+import dataImport from "../data/portfolio.json";
+import { useState } from "react";
 
 export default function Home() {
   // Ref
@@ -22,6 +23,7 @@ export default function Home() {
   const textTwo = useRef();
   const textThree = useRef();
   const textFour = useRef();
+  const [data, setData] = useState(dataImport);
 
   // Handling Scroll
   const handleWorkScroll = () => {
@@ -108,11 +110,11 @@ export default function Home() {
             ))}
           </div>
         </div>
-
+            
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
           <h1 className="tablet:m-10 text-2xl text-bold">Services.</h1>
           <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
-            {data.services.map((service, index) => (
+            {data.services && data.services.map((service, index) => (
               <ServiceCard
                 key={index}
                 name={service.title}
