@@ -1,0 +1,101 @@
+{
+  "name": "SassyxD",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Nattapong Puttipatkosit - SassyxD",
+  "headerTaglineThree": "Code enjoyer",
+  "headerTaglineFour": " based in Bangkok, Thailand.",
+  "showBlog": true,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/SassyxD"
+    },
+    { "id": "2", "title": "Email", "link": "mailto:xenonhash@gmail" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "IT-Notice",
+      "description": "IT-Notice is an innovative web application designed to streamline and consolidate notifications from various learning platforms within the Faculty of Information Technology at KMITL. Leveraging Python and Flask, IT-Notice provides a unified interface where students and faculty can access all relevant updates and announcements in one place.",
+      "imageSrc": "https://drive.google.com/file/d/10z2Tb5GDP-Y10hXr5mDXd5lX-a58jFs7/view?usp=drive_link",
+      "url": "https://github.com/SassyxD/IT-notice-core"
+    },
+    {
+      "id": "2",
+      "title": "Zootopid",
+      "description": "Zootopid is a dynamic and interactive zoo management application built using Java and JavaFX. This application is designed to enhance the visitor experience by providing a comprehensive system for locating animals within a zoo, visualizing their locations, and navigating to them efficiently.",
+      "imageSrc": "https://drive.google.com/file/d/15iBMUZdaPgyL34Z7nRmTngJPtKI8GCsV/view?usp=drive_link",
+      "url": "https://github.com/SassyxD/zootopid"
+    },
+    {
+      "id": "3",
+      "title": "GeoGusser - ApvGuessr",
+      "description": "DesignAPVgeoguessr is a browser extension that brings an engaging geography trivia game directly to your browser. This extension challenges users to identify locations from around the world through images or street view snapshots, and crucially, it also reveals the exact location of the challenge once the user makes a guess. The extension is built using JavaScript, ensuring a smooth and interactive experience within your web browser.",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/SassyxD/APVgeoguessr"
+    },
+    {
+      "id": "4",
+      "title": "Engdis-hax",
+      "description": "EngDis-Hax is an educational tool designed to automate and enhance the correction of exercises on EnglishDiscovery.com. This project aims to streamline the process of evaluating and correcting English language exercises by providing an automated solution that leverages Node.js. EngDis-Hax is intended solely for educational purposes, helping learners improve their English skills more efficiently.",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/SassyxD/engdis-hax"
+    }
+  ],
+  "Competitions and Awards": [
+    {
+      "id": "1",
+      "title": "Huawei ICT Competitions 2023-2024 (Computing Track), 2nd on Preliminary round",
+      "description": "The Huawei ICT Competition Preliminary Round is the initial phase of a global competition organized by Huawei, aimed at identifying and nurturing ICT talent from around the world. This preliminary round serves as the gateway for students and young professionals to showcase their skills and advance to the subsequent stages of the competition."
+    },
+    {
+      "id": "2",
+      "title": "Huawei ICT Competitions 2023-2024 (Computing Track), 4th on Regional round",
+      "description": "The Huawei ICT Competition Regional Round is a key stage in Huawei's global ICT competition, aimed at identifying and promoting top talent in information and communications technology from various regions around the world. This phase follows the preliminary round and focuses on more advanced challenges that test participants' technical skills and problem-solving abilities in a competitive environment."
+    },
+    {
+      "id": "3",
+      "title": "Awards build reputation for the faculty",
+      "description": "Due to Huawei ICT competition (Computing Track) Regional round, The faculty gave me this award for the reputation gained"
+    },
+    {
+      "id": "4",
+      "title": "Muangthong hackathon, Honorable memtion",
+      "description": "I've won the Muangthong Hackathon with their project \"SmartHealth Assistant,\" an AI-powered application designed to provide personalized health recommendations and track wellness metrics. The application integrates with wearable devices to collect real-time health data, uses machine learning algorithms to analyze trends, and offers actionable insights to users for improving their health and well-being."
+    }
+  ],
+  "aboutpara": "I am a motivated sophomore at King Mongkut's Institute of Technology Ladkrabang (KMITL) with a growing passion for software development. I am actively seeking part-time opportunities to apply and expand my skills in full-stack development. With hands-on experience in React.js, Next.js, Node.js, and MySQL, I am eager to contribute to real-world projects and gain practical experience.",
+  "resume": {
+    "tagline": "👋  I'm students from King Mongkut's Institute of Technology Ladkrabang",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2023 - Present",
+        "type": "Full Time",
+        "position": "YakthaiTattoo Studio and Cafe",
+        "bullets": [
+          "Worked on the backend of web-based POS system by using React, Node.js and Electron",
+          "Worked on the Fullstack of a Web development by using Next.js"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "March 2020 - March 2022",
+        "type": "TechStack LTD",
+        "position": "Frontend Engineer (Intern Rookie) at TechStack",
+        "bullets": ["Worked on the frontend of a React application"]
+      }
+    ],
+    "education": {
+      "universityName": "King Mongkut's Institute of Technology Ladkrabang, School of Information Technology",
+      "universityDate": "2023-2027",
+      "universityPara": "The School of Information Technology (IT) at King Mongkut's Institute of Technology Ladkrabang (KMITL) is a prominent academic division dedicated to advancing knowledge and research in the field of information technology. Established as part of KMITL's commitment to excellence in technology and engineering education, the School of IT focuses on preparing students for careers in various areas of IT through a blend of rigorous academic programs and practical experiences."
+    },
+    "languages": ["Javascript","HTML5", "CSS", "Python","C"],
+    "frameworks": ["Next.js", "React", "NodeJs"],
+    "others": ["AWS", "fastAPI", "RESTful API"]
+  }
+}
